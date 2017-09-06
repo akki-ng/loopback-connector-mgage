@@ -1,0 +1,32 @@
+{
+  "name": "loopback-connector-mgage",
+  "version": "1.0.0",
+  "description": "A loopback connector to send sms using mgage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akki-ng/loopback-connector-mgage.git"
+  },
+  "keywords": [
+    "sms",
+    "mgage",
+    "connector",
+    "loopback",
+    "text",
+    "sendsms",
+    "message"
+  ],
+  "author": "Akshay Sharma <mailto.akshaysharma@yahoo.com> (https://www.linkedin.com/in/akshayaprakash-sharma-03393674)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akki-ng/loopback-connector-mgage/issues"
+  },
+  "homepage": "https://github.com/akki-ng/loopback-connector-mgage#readme",
+  "dependencies": {
+    "loopback-connector": "^4.3.0",
+    "request": "^2.81.0"
+  }
+}
