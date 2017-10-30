@@ -27,6 +27,7 @@
   "homepage": "https://github.com/akki-ng/loopback-connector-mgage#readme",
   "dependencies": {
     "loopback-connector": "^4.3.0",
+    "qs": "^6.5.1",
     "request": "^2.81.0"
   }
 }
