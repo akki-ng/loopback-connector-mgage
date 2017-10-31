@@ -1,6 +1,6 @@
 {
   "name": "loopback-connector-mgage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A loopback connector to send sms using mgage",
   "main": "index.js",
   "scripts": {
